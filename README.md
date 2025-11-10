@@ -7,9 +7,8 @@ To run this project, ensure you have the following installed:
   2. Required Python packages
      
     pip3 install pandas matplotlib 
-    pip3 install joblib 
     pip3 install scikit-learn 
-    pip3 install scikit-image 
+    pip3 install seaborn
 
   3. Required library imports (given the code)
 
