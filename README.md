@@ -13,9 +13,9 @@ To run this project, ensure you have the following installed:
   3. Required library imports (given the code)
 
 ## Result
-
+The model performance is shown in the evaluation metrics below
 <div align="center">
-  <img src="Project Images/Dataset amount.jpg" alt="dataset" width="500"/>
+  <img src="Performance.png" alt="dataset" width="500"/>
 </div>
 
 
