@@ -27,4 +27,10 @@ Several preprocessing for the dataset was needed, such as
 2. Checking for NaN values and fill the values using the _mean()_ function, such as for 'Age'.
 3. Selecting relevant features along with the target value.
 
+## Contribution
+Contributions are welcome! If you’d like to improve this model:
 
+1. Fork the repository.
+2. Create a new branch.
+3. Add or update Python scripts for better/improved accuracy.
+4. Submit a pull request.
