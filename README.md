@@ -14,6 +14,10 @@ To run this project, ensure you have the following installed:
 
 ## Result
 
+<div align="center">
+  <img src="Project Images/Dataset amount.jpg" alt="dataset" width="500"/>
+</div>
+
 
 ## Dataset 
 The dataset was from https://github.com/datasciencedojo/datasets/blob/master/titanic.csv.
